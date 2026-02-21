@@ -1,7 +1,5 @@
 ---
 
-# Project Title
-
 # End-to-End Spark Data Processing Pipeline using Databricks
 
 ---
