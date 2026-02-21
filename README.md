@@ -26,13 +26,13 @@ The project showcases practical knowledge of distributed data processing, perfor
 
 # ⚙️ Key Features Implemented
 
-✔ Data ingestion from CSV files
-✔ Data cleansing and transformation
-✔ Aggregations and group-by operations
-✔ Window functions for ranking and analysis
-✔ Join operations between datasets
-✔ Delta table creation and optimization
-✔ Performance tuning (caching & partitioning)
+-✔ Data ingestion from CSV files
+-✔ Data cleansing and transformation
+-✔ Aggregations and group-by operations
+-✔ Window functions for ranking and analysis
+-✔ Join operations between datasets
+-✔ Delta table creation and optimization
+-✔ Performance tuning (caching & partitioning)
 
 ---
 
